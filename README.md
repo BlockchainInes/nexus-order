@@ -2,6 +2,8 @@
 
 A fully on-chain order book DEX with limit orders, built with Solidity, Foundry, and React.
 
+![Nexus Order UI](https://raw.githubusercontent.com/BlockchainInes/nexus-order/main/Captura%20de%20pantalla%20NEXUS%20ORDER.png)
+
 ## Live Contract
 - **Network:** Sepolia Testnet
 - **Address:** [0x098622fd935216c2a14300ffc3cb5b0e08736964](https://sepolia.etherscan.io/address/0x098622fd935216c2a14300ffc3cb5b0e08736964#code)
