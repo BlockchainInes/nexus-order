@@ -1,0 +1,28 @@
+# Environment Variables - NEVER commit these
+.env
+.env.local
+.env.*.local
+
+# Foundry
+contracts/cache
+contracts/out
+contracts/broadcast
+
+# Node
+frontend/node_modules
+frontend/dist
+frontend/.vite
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode
+
+# Cache
+cache
