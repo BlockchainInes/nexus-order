@@ -47,11 +47,11 @@ npm run dev
 ```
 
 ## Tests
-[PASS] test_CancelOrder
-[PASS] test_CannotCancelOthersOrder
-[PASS] test_OrderMatching
-[PASS] test_PlaceBuyOrder
-[PASS] test_PlaceSellOrder
+- [PASS] test_CancelOrder
+- [PASS] test_CannotCancelOthersOrder
+- [PASS] test_OrderMatching
+- [PASS] test_PlaceBuyOrder
+- [PASS] test_PlaceSellOrder
 5 passed; 0 failed
 
 ## License
